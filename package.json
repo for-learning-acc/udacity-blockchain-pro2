@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.13",
+    "openzeppelin-solidity": "2.3",
+    "web3": "^1.7.5"
+  },
+  "name": "nd1309-p2-decentralized-star-notary-service-starter-code-main",
+  "description": "**PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
